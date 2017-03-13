@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Dave Thomas
+  address: MyText
+  emal: dave@example.org
+  pay_type: Check
+
+two:
+  name: MyString
+  address: MyText
+  emal: MyString
+  pay_type: 1
